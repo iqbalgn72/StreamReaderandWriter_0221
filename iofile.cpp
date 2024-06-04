@@ -28,5 +28,6 @@ int main() {
     outfile.close();
 
     //Membuka file dalam mode membaca
-    ifstream infite;
+    ifstream infile;
+    //
 }
